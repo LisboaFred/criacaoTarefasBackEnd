@@ -1,4 +1,4 @@
-## 📝 Resumo do Projeto – Criação de Tarefas (Back-End)
+# Back-end de Gerenciamento de Tarefas
 Este repositório contém o back-end de uma aplicação de gerenciamento de tarefas, desenvolvido em Node.js com TypeScript, utilizando Express como framework HTTP e Prisma ORM para acesso ao banco de dados.
 
 A aplicação fornece uma API RESTful para criar, listar, atualizar e excluir tarefas, sendo ideal para um sistema de to-do list ou para gerenciar tarefas em projetos mais complexos.
